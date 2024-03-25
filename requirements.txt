@@ -1,0 +1,20 @@
+# requirements.txt
+
+# Image processing library
+Pillow>=9.4.0  # PIL Fork
+
+# Web framework
+Flask>=2.3.x
+
+# Database management
+sqlite3~=3.46.0  # The Python built-in sqlite3 module
+
+# Google AI libraries (potentially rate-limited)
+# You may need to set up API keys for these libraries to work
+google-cloud-aiplatform>=2.10.0  # Consider using specific libraries like Text-to-Speech or Vision API instead of the entire suite
+
+# Translation library
+deep_translator>=4.4.3
+
+# Language detection library
+langdetect>=4.3.1
