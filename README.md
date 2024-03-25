@@ -14,5 +14,9 @@ This project provided an opportunity to delve into chatbot development using the
 
 ## Demo Video
 
-<video src="agriculture chatbot.mp4" width="320" height="240" controls></video>
+
+https://github.com/harsh0506/Agriculture-Chatbot-Project-Gemini-AI-Harsh/assets/78259306/707b27ee-227d-41db-a68f-3712e856c94f
+
+
+
 ---
